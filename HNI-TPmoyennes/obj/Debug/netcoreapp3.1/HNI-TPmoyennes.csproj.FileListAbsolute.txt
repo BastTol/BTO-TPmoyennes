@@ -1,0 +1,14 @@
+C:\Users\Bastien-PC\source\repos\Moyennes_Classes\HNI-TPmoyennes\obj\Debug\netcoreapp3.1\HNI-TPmoyennes.csproj.AssemblyReference.cache
+C:\Users\Bastien-PC\source\repos\Moyennes_Classes\HNI-TPmoyennes\obj\Debug\netcoreapp3.1\HNI-TPmoyennes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bastien-PC\source\repos\Moyennes_Classes\HNI-TPmoyennes\obj\Debug\netcoreapp3.1\HNI-TPmoyennes.AssemblyInfoInputs.cache
+C:\Users\Bastien-PC\source\repos\Moyennes_Classes\HNI-TPmoyennes\obj\Debug\netcoreapp3.1\HNI-TPmoyennes.AssemblyInfo.cs
+C:\Users\Bastien-PC\source\repos\Moyennes_Classes\HNI-TPmoyennes\obj\Debug\netcoreapp3.1\HNI-TPmoyennes.csproj.CoreCompileInputs.cache
+C:\Users\Bastien-PC\source\repos\Moyennes_Classes\HNI-TPmoyennes\bin\Debug\netcoreapp3.1\HNI-TPmoyennes.exe
+C:\Users\Bastien-PC\source\repos\Moyennes_Classes\HNI-TPmoyennes\bin\Debug\netcoreapp3.1\HNI-TPmoyennes.deps.json
+C:\Users\Bastien-PC\source\repos\Moyennes_Classes\HNI-TPmoyennes\bin\Debug\netcoreapp3.1\HNI-TPmoyennes.runtimeconfig.json
+C:\Users\Bastien-PC\source\repos\Moyennes_Classes\HNI-TPmoyennes\bin\Debug\netcoreapp3.1\HNI-TPmoyennes.runtimeconfig.dev.json
+C:\Users\Bastien-PC\source\repos\Moyennes_Classes\HNI-TPmoyennes\bin\Debug\netcoreapp3.1\HNI-TPmoyennes.dll
+C:\Users\Bastien-PC\source\repos\Moyennes_Classes\HNI-TPmoyennes\bin\Debug\netcoreapp3.1\HNI-TPmoyennes.pdb
+C:\Users\Bastien-PC\source\repos\Moyennes_Classes\HNI-TPmoyennes\obj\Debug\netcoreapp3.1\HNI-TPmoyennes.dll
+C:\Users\Bastien-PC\source\repos\Moyennes_Classes\HNI-TPmoyennes\obj\Debug\netcoreapp3.1\HNI-TPmoyennes.pdb
+C:\Users\Bastien-PC\source\repos\Moyennes_Classes\HNI-TPmoyennes\obj\Debug\netcoreapp3.1\HNI-TPmoyennes.genruntimeconfig.cache
